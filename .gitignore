@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Local database and backup files
+*.db
+*.db-wal
+*.db-shm
+*.db.backup*
+*.vault
+*.json
+
+# Personal images
+image_9fe76721.jpg
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp

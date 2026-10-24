@@ -1,0 +1,13 @@
+# Core Cryptography & Security
+cryptography>=44.0.0
+argon2-cffi>=23.1.0
+
+# Desktop GUI (Modern Local Interface)
+customtkinter>=5.2.0
+darkdetect>=0.8.0
+
+# System Clipboard Integration
+pyperclip>=1.8.2
+
+# Testing & Quality
+pytest>=8.0.0
