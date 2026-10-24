@@ -16,9 +16,9 @@ __pycache__/
 *.db.backup*
 *.vault
 *.json
-
-# Personal images
-image_9fe76721.jpg
+*.sqlite*
+.env
+.env.*
 
 # macOS files
 .DS_Store
